@@ -1,5 +1,5 @@
 /**
- * @file generalint.cpp
+ * @file compactIntArray.cpp
  * @brief	紧凑存储整数数组类的实现，实现把给定整数范围和数组大小的整数数组紧凑存储
  * @author li shuangjiang
  * @version 0.0.1
